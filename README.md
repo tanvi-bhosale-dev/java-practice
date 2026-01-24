@@ -11,3 +11,8 @@ This repository contains my java practice programs
 
   ## Goal
   To become a Java Full Stack Developer.
+
+  # programs
+  - Helloworld.java - prints Hello World
+  - IfElseDemo.java - Demonstrates if-else statements
+  - LoopDemo.java -Demonstrates for loop
