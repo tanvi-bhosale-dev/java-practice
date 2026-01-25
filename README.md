@@ -16,3 +16,7 @@ This repository contains my java practice programs
   - Helloworld.java - prints Hello World
   - IfElseDemo.java - Demonstrates if-else statements
   - LoopDemo.java -Demonstrates for loop
+
+## Learning Goal
+-Understand basic java program structure
+-Learn how to use GitHub for java project
