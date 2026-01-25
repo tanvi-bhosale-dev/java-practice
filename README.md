@@ -20,3 +20,16 @@ This repository contains my java practice programs
 ## Learning Goal
 -Understand basic java program structure
 -Learn how to use GitHub for java project
+
+## Java Basics Practice 
+This repository contains Java programs for learning core concepts.
+### Topics covered
+-Basics (Hello World, syntax)
+-Array (1D array examples)
+
+### Tools Used 
+-Java
+-GitHub
+
+### Author
+Tanvi Bhosale
