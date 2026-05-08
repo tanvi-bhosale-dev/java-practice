@@ -3,19 +3,15 @@
 This repository contains my java practice programs
 ## Topics covered
 - Java Basics
-- Data types
-- Operators
-- Control Statements
-- Arrays
-- OOP Concepts
 
-  ## Goal
+   ## Goal
   To become a Java Full Stack Developer.
 
   # programs
-  - Helloworld.java - prints Hello World
-  - IfElseDemo.java - Demonstrates if-else statements
-  - LoopDemo.java -Demonstrates for loop
+  - MyAge.java - simple architecture program
+  - test.1 - simple architecture program
+  - test2.java - using println program
+  - test3.java - using print program
 
 ## Learning Goal
 -Understand basic java program structure
@@ -24,8 +20,7 @@ This repository contains my java practice programs
 ## Java Basics Practice 
 This repository contains Java programs for learning core concepts.
 ### Topics covered
--Basics (Hello World, syntax)
--Array (1D array examples)
+-Basics (java Architecture)
 
 ### Tools Used 
 -Java
