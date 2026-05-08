@@ -2,11 +2,11 @@
 
 This repository contains my java practice programs
 ## Topics covered
-- Basic of java
+- Java Basics
 - Data types
 - Operators
 - Control Statements
-- Array
+- Arrays
 - OOP Concepts
 
   ## Goal
