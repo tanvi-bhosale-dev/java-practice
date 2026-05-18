@@ -4,6 +4,7 @@ This repository contains my java practice programs
 ## Topics covered
 - Java Basics
 - DataTypes
+- Type Casting
 - Variable
 
    ## Goal
@@ -15,7 +16,8 @@ This repository contains my java practice programs
   - test2.java - using println program
   - test3.java - using print program
   - DataTypes.java - using Datatypes
-  - DemoVariable.java - using Instance Variable,Class Variable,and Local Variable
+  - TypeCasting.java -Type Castring
+  - DemoVariable.java - using Instance  Variable,Class Variable,and Local Variable
 
 ## Learning Goal
 -Understand basic java program structure
@@ -26,6 +28,7 @@ This repository contains Java programs for learning core concepts.
 ### Topics covered
 -Basics (java Architecture)
 -Datatypes
+-Type casting
 -Variables
 
 ### Tools Used 
