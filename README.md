@@ -6,6 +6,9 @@ This repository contains my java practice programs
 - DataTypes
 - Type Casting
 - Variable
+- Flow control statement
+     -If statement
+     -Switch statement
 
    ## Goal
   To become a Java Full Stack Developer.
@@ -18,7 +21,9 @@ This repository contains my java practice programs
   - DataTypes.java - using Datatypes
   - TypeCasting.java -Type Castring
   - DemoVariable.java - using Instance  Variable,Class Variable,and Local Variable
-
+  - Flow control statement
+       -If statement
+       -Switch statement
 ## Learning Goal
 -Understand basic java program structure
 -Learn how to use GitHub for java project
